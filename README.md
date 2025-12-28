@@ -26,7 +26,6 @@ Cars flow through these stations in order (Cleaning -> Primer -> Painting). The 
     -   `config.py`: Configuration parameters (times, capacities).
     -   `monitor.py`: Logging and statistics tracking.
     -   `paint_shop.py`: Core simulation logic (Car and Station classes).
-    -   `presentation.md`: Analysis of results and recommendations.
 
 ## Requirements
 -   Python 3.x
